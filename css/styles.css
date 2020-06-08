@@ -153,8 +153,8 @@ input[type=checkbox]:checked + label.strikethrough{
 	background-size: cover;
 }
 
-#skribbl {
-	background: url(../images/skribblio.jpeg);
+#justDance {
+	background: url(../images/just-dance.jpg);
 	background-size: cover;
 }
 
@@ -192,7 +192,6 @@ input[type=checkbox]:checked + label.strikethrough{
 
 #optionA, #optionB {
 	text-align: center;
-/*	display: inline-block;*/
 	width: 50%;
 	height: 70%;
 	padding: 10%;
