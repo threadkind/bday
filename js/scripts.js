@@ -46,7 +46,7 @@ let pages = {
             </a>
           </div>`,
     partyBox : `<h1>Party Box</h1>
-    <p class="intro">It's time to open up your party box!!!<br><br>Inside the box you will find lots of fun party treats and some craft kits.<br>Don't forget to share! There are plenty of goodies inside!<br><br>Enjoy your treats and when you are ready, grab your first craft kit and click the corresponding box to reveal the instructions for each craft!<br><br>For Craft 3, you will need some markers for decoration, scissors and a glue stick if you have one.<br></p>
+    <p class="intro">It's time to open up your party box!!!<br><br>Inside the box you will find lots of fun party treats and some craft kits.<br>Don't forget to share! There are plenty of goodies inside!<br><br>Enjoy your treats and when you are ready, grab your first craft kit and click the corresponding box to reveal the instructions for each craft!<br><br>For these crafts, you will also need some markers for decoration, scissors and a glue stick if you have one.<br></p>
     <div id="craftContain">
     	<div id="craft1" class="crafts">
     		<div id="craft1Hide" class="craftHide"><br>Craft 1<br><br><br>Click to Reveal</div>
