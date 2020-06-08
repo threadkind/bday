@@ -69,6 +69,7 @@ let pages = {
     	<iframe src="https://www.youtube-nocookie.com/embed/Qwscb3QIVSg?start=50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     	<iframe src="https://www.youtube.com/embed/7KPfOVw3JwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     	<iframe src="https://www.youtube.com/embed/nfWlot6h_JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	<iframe src="https://www.youtube.com/embed/XgztfRBc2jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>`
 }
 
