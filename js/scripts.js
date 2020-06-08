@@ -136,7 +136,6 @@ e.nav.addEventListener('click', (event) => {
 		x = x.join('')
 
 		e.partyFrame.innerHTML = pages[x]
-		console.log(event)
 
 		if(event.target.innerHTML == 'Party Box'){
 			document.getElementById('craft1Hide').addEventListener('click', () => {
