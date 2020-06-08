@@ -70,6 +70,9 @@ let pages = {
     	<iframe src="https://www.youtube.com/embed/7KPfOVw3JwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     	<iframe src="https://www.youtube.com/embed/nfWlot6h_JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     	<iframe src="https://www.youtube.com/embed/XgztfRBc2jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	<iframe src="https://www.youtube.com/embed/ZbZSe6N_BXs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	<iframe src="https://www.youtube.com/embed/PIb6AZdTr-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>`
 }
 
