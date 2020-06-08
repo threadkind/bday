@@ -20,7 +20,7 @@ let pages = {
           </div>
           `,
     games : `<h1>Games</h1>
-    	<p class="intro">Here are some fun games for you to play!<br>For 'Would You Rather?' and 'Scattergories' you can just pull up the game on one screen. For 'Guess Who' and 'Skribbl.io', you will each need to pull up the game on your own device to be able to play.</p>
+    	<p class="intro">Here are some fun games for you to play!<br>For 'Would You Rather?', 'Just Dance' and 'Scattergories' you can just pull up the game on one screen. For 'Guess Who', you will each need to pull up the game on your own device to be able to play.</p>
         <div id="menu">
           <div class="menu-item" id="wouldYouRather">
             <a href="would_you_rather.html" target="_blank">
