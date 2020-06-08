@@ -64,7 +64,7 @@ let pages = {
 
     	`,
     happyBirthday : `<h1>Happy Birthday!</h1>
-    <p class="intro">Yay! Time to open up presents!!<br><br>Here are some party tunes for you to listen to while you open up your gifts!<br><br>Happy Birthday!<br><br>Hope you enjoyed the party! :) <br><br></p>
+    <p class="intro">Yay! Time to open up presents!!<br><br>Here are some party tunes for you to listen to while the birthday gifts are opened!<br><br>Happy Birthday!<br><br>Hope you enjoyed the party! :) <br><br></p>
     <div id="youTube">
     	<iframe src="https://www.youtube-nocookie.com/embed/Qwscb3QIVSg?start=50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     	<iframe src="https://www.youtube.com/embed/7KPfOVw3JwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

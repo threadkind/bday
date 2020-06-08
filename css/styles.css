@@ -23,12 +23,6 @@ body {
 	height: 120vh;
 	width: 100vw;
 	overflow-x: hidden;
-/*	background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);*/
-/*	background-color: #FEE140;
-    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 1*//*00%);*/
-/*    background-color: #FA8BFF;
-    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88*/ /*90%);*/
 	background-color: #FF3CAC;
     background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
@@ -53,12 +47,6 @@ nav ul {
 nav ul li {
 	cursor: pointer;
 }
-
-/*#party {
-	width: 100%;
-	display: flex;
-	justify-content: center;
-}*/
 
 #checklist {
 	position: absolute;
@@ -280,9 +268,10 @@ h2 {
 }
 
 .craftHide {
-	background: hotpink;
-	width: 280px;
-	height: 157px;
+	background: rgb(199,10,103);
+    background: linear-gradient(125deg, rgba(199,10,103,1) 0%, rgba(255,15,133,1) 50%, rgba(199,10,103,1) 100%);
+	width: 260px;
+	height: 137px;
 	position: absolute;
 	top: 0;
 	left: 0;
