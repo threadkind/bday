@@ -34,7 +34,6 @@ let pages = {
             </a>
           </div>
 
-
           <div class="menu-item" id="justDance">
             <a href="https://www.youtube.com/playlist?list=PLPBDbZkbYN8WmnbPesuN1YvsAxLNKAZJw" target="_blank">
               <p>Just Dance</p>
