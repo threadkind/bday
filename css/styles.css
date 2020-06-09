@@ -20,7 +20,7 @@ main {
 }
 
 body {
-	height: 120vh;
+	min-height: 150vh;
 	width: 100vw;
 	overflow-x: hidden;
 	background-color: #FF3CAC;
@@ -151,6 +151,11 @@ input[type=checkbox]:checked + label.strikethrough{
 	background-size: cover;
 }
 
+#skribblio {
+	background: url(../images/skribblio.jpeg);
+	background-size: cover;
+}
+
 
 
 #gameContain {
@@ -270,8 +275,8 @@ h2 {
 .craftHide {
 	background: rgb(199,10,103);
     background: linear-gradient(125deg, rgba(199,10,103,1) 0%, rgba(255,15,133,1) 50%, rgba(199,10,103,1) 100%);
-	width: 260px;
-	height: 137px;
+	width: 270px;
+	height: 147px;
 	position: absolute;
 	top: 0;
 	left: 0;
